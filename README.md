@@ -2,6 +2,11 @@
 <a href="https://github.com/onuralpszr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Dias;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+    <a href="https://twitter.com/diasmks"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/dias-mukash-5116631b6/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
+</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/dias-mukash-5116631b6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
