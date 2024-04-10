@@ -1,6 +1,6 @@
-<div align="center">
-![gh-rdme](https://github.com/diassique/diassique/assets/69870181/9b13ef0a-3b6c-48dc-acce-a08aea1856b9)<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-</div>
+<p align="center">
+<a href="https://github.com/onuralpszr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Dias;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dias-mukash-5116631b6/" target="_blank">
