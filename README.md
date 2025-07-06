@@ -1,130 +1,97 @@
-<p align="center">
-<a href="https://github.com/onuralpszr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Dias;Nice+to+meet+you!" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-    <a href="https://twitter.com/diasmks"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/dias-mukash-5116631b6/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
-</p>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm a passionate Software Engineer and Frontend Developer from Almaty, Kazakhstan<br><br>I strive to write high quality code and solve complex problems. I have excellent teamwork and communication skills, which allows me to interact effectively with colleagues and clients. Ready to apply my skills and enthusiasm to a dynamic software developer position.<br><br>- 📚 I'm currently learning ML (TensorFlow, Keras, PyTorch)<br>- ⚡ In my free time I read books, sing, and play sports<br>- 📫 How to reach me diassique@gmail.com</p>
-
-###
-
-<h3 align="left">💻 Programming</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<div align="center">
+  
+  <a href="https://github.com/onuralpszr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=4A71D9&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B!+I'm+Dias+Mukash;Software+Engineer+%26+Frontend+Developer" alt="Typing SVG" />
+  </a>
+  
 </div>
 
-###
-
-<h3 align="left">🛠 Frameworks & Libraries</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
-
-###
-
-<h3 align="left">💾 Databases</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<h3 align="left">🤖 Software & Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=diassique&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
+  <a href="mailto:diassique@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dias-mukash-5116631b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/diasmks">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  
 </div>
 
-###
+---
+
+### 👨‍💻 About Me
+
+I'm a Software Engineer based in **Almaty, Kazakhstan**, specializing in building exceptional web experiences. My passion lies in writing clean, high-quality code and architecting scalable solutions to complex problems. I thrive in collaborative environments, leveraging strong communication skills to work effectively with teams and clients.
+
+-   🚀 I'm focused on creating user-friendly and performant applications using modern frontend technologies.
+-   📚 Currently deepening my knowledge in **Machine Learning** with `TensorFlow` and `PyTorch`.
+-   🌱 I'm always open to learning new technologies and taking on new challenges.
+-   💬 Ask me about **React, Next.js, TypeScript, and Python**.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are the technologies I work with. I've organized them to give you a clear picture of my skills.
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <strong>Frontend</strong>
+    </td>
+    <td align="center" width="180">
+      <strong>Backend</strong>
+    </td>
+    <td align="center" width="180">
+      <strong>Databases</strong>
+    </td>
+    <td align="center" width="180">
+      <strong>Tools & Platforms</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,nextjs,html,css,sass,tailwindcss,bootstrap" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,go,java" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,webpack,postman,figma,vscode" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 My GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=diassique&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Dias's GitHub Stats" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassique&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Dias's Top Languages" />
+  
+  <br><br>
+  
+  <img src="https://streak-stats.demolab.com?user=diassique&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 
-###
+</div>
