@@ -17,7 +17,7 @@ I'm a Software Engineer based in **Almaty, Kazakhstan**, specializing in buildin
 -   🚀 I'm focused on creating user-friendly and performant applications using modern frontend technologies.
 -   📚 Currently deepening my knowledge in **Machine Learning** with `TensorFlow` and `PyTorch`.
 -   🌱 I'm always open to learning new technologies and taking on new challenges.
--   💬 Ask me about **React, Next.js, TypeScript, and Python**.
+-   💬 Ask me about **Vue, Nuxt.js, React, Next.js, TypeScript, and Python**.
 
 ---
 
