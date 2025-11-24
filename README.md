@@ -63,21 +63,3 @@ Here are the technologies I work with. I've organized them to give you a clear p
     </td>
   </tr>
 </table>
-
----
-
-### 🔥 My GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=diassique&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Dias's GitHub Stats" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassique&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Dias's Top Languages" />
-  
-  <br><br>
-  
-  <img src="https://streak-stats.demolab.com?user=diassique&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-
-</div>
